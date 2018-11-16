@@ -1,6 +1,60 @@
 # Change Log - @uifabric/experiments
 
-This log was last generated on Mon, 22 Oct 2018 12:29:57 GMT and should not be manually modified.
+This log was last generated on Thu, 08 Nov 2018 04:17:34 GMT and should not be manually modified.
+
+## 6.41.0
+Thu, 08 Nov 2018 04:17:34 GMT
+
+### Minor changes
+
+- Converting existing Toggle component to use Foundation.
+
+### Patches
+
+- added bookmark signal icons
+
+## 6.40.3
+Fri, 02 Nov 2018 18:11:37 GMT
+
+*Version update only*
+
+## 6.40.2
+Fri, 02 Nov 2018 12:28:55 GMT
+
+*Version update only*
+
+## 6.40.1
+Wed, 31 Oct 2018 12:32:41 GMT
+
+### Patches
+
+- Add theme provider helper and replace usage of scheme prop with theme provider.
+
+## 6.40.0
+Mon, 29 Oct 2018 12:31:29 GMT
+
+### Minor changes
+
+- Announced: add initial component prototype and examples
+
+## 6.39.5
+Thu, 25 Oct 2018 12:30:06 GMT
+
+*Version update only*
+
+## 6.39.4
+Wed, 24 Oct 2018 12:28:58 GMT
+
+### Patches
+
+- fix breaking changes for odsp
+
+## 6.39.3
+Tue, 23 Oct 2018 12:32:16 GMT
+
+### Patches
+
+- Fix an issue with the demo site not being able to load (in npm start or aka.ms/fabricdemo).
 
 ## 6.39.2
 Mon, 22 Oct 2018 12:29:57 GMT
