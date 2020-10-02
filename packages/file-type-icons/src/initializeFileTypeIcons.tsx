@@ -54,7 +54,7 @@ function _initializeIcons(baseUrl: string, size: number, options?: Partial<IIcon
     );
     _iconSources[iconName] = src;
 
-    iconName = type + size + '_1.5x' + PNG_SUFFIX;
+    iconName = type + size + '_1.5x' + SVG_SUFFIX;
     src = `{${baseUrl} + ${size} + _1.5x/ + ${type} + .svg}`;
     fileTypeIcons[iconName] = (
       <img src={src} height="100%" width="100%" />
